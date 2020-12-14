@@ -13,14 +13,16 @@ tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/tho
 Focused my studies on Digital Audio Signal Processing & Recording  
 **Relavent Coursework:** Mathematics of Machine Learning, Audio Signal Processing for Music Applications, Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound.
 ### Papers
-**Harmonic Modulator Envelope filters, _2020_,** UNC Asheville  
-Expanded Acoustic Timbre Through Digital Synthesis  
-Funded by UNCA 2020 Summer Research Grant
+**Harmonic Modulator Envelope filters, _2020_,** _UNC Asheville_  
+Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant
 ### Projects
-#### Sound Source Separation Implementation of SuDo Rm-RF
-#### Implementation of Magenta GAN Synth
-#### Midi Arduino Controller
-### Familiar Tools
+**Sound Source Separation Implementation of SuDo Rm-RF, _2019_,** _Personal Project_  
+Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant
+**Implementation of Magenta GAN Synth, _2020_,** _Personal Project_    
+Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant
+**Midi Arduino Controller, _2020_,** _UNC Asheville_  
+Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant
+### Skills & Tools
 **Programming Languages:** Java, Python, R, J  
 **Data Tools:** Numpy, Pandas, Excel, J, Matplotlib  
 **IDE:** Jupyter Notebook, IPython, Eclipse, Rstudio  
