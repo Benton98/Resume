@@ -6,7 +6,8 @@ My passion for the liberal arts and research habits have endowed me with a uniqu
    My research has also led me to explore the world spectral modeling sythesis and General Adversarial Network Synthesizers. More specifically using these techniques to model and combine nuances of multiple timbres for the post production, soudn design and music production.
 
 ## Education
-### Music Technology and Computer Science |  University of North Carolina Asheville
+### B.S. Music Technology | University of North Carolina Asheville
+### B.S. Computer Science | University of North Carolina Asheville
 ##### September 2017 - Present
 Focused my studies on Digital Audio Signal Processing & Recording
 ### Classes
@@ -28,4 +29,4 @@ Quantizing Dynamics of Acoustic Timbre using Spectral Modeling Synthesis
 Won UNCA Undergraduate Research Grant
 ### Sound Source Separation Implementation of SuDo Rm-RF
 ### Implementation of Magenta GAN Synth
-
+### Midi Arduino Controller
