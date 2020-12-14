@@ -11,15 +11,12 @@ tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/tho
 # Resume
 ### B.S. Computer Science and B.S. Music Technology
 **University of North Carolina Asheville** (September 2017 - Present)
-Focused my studies on Digital Audio Signal Processing & Recording **Relavent Coursework:** Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound.
-#### MOOCs
-**Audio Signal Processing for Music Applications:** Xavier Serra's course detailing a method of modeling and synthesizing audio known as Spectral Modeling Synthesis (SMS) involving extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum.
+Focused my studies on Digital Audio Signal Processing & Recording **Relavent Coursework:** Mathematics of Machine Learning, Audio Signal Processing for Music Applications, Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound.
 
-**Mathematics of Machine Learning:**  Andrew Ng's famous course this course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition.
 ### Papers
-#### UNC Asheville 
-Harmonic Modulator Envelope filters: Expanding Acoustic Timbre Through Digital Synthesis
-Won UNCA 2020 Summer Undergraduate Research Grant
+**Harmonic Modulator Envelope filters, _2020_** UNC Asheville 
+- Expanded Acoustic Timbre Through Digital Synthesis
+- Funded by UNCA 2020 Summer Research Grant
 ### Projects
 #### Sound Source Separation Implementation of SuDo Rm-RF
 #### Implementation of Magenta GAN Synth
