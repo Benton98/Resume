@@ -26,4 +26,6 @@ Focused my studies on Digital Audio Signal Processing & Recording
 ##### June 2019 - Present
 Quantizing Dynamics of Acoustic Timbre using Spectral Modeling Synthesis
 Won UNCA Undergraduate Research Grant
+### Sound Source Separation Implementation of SuDo Rm-RF
+### Implementation of Magenta GAN Synth
 
