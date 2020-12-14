@@ -6,27 +6,37 @@ My passion for the liberal arts and research habits have endowed me with a uniqu
    My research has also led me to explore the world spectral modeling sythesis and General Adversarial Network Synthesizers. More specifically using these techniques to model and combine nuances of multiple timbres for the post production, soudn design and music production.
 
 ## Education
-### B.S. Music Technology | University of North Carolina Asheville
-### B.S. Computer Science | University of North Carolina Asheville
+### B.S. Computer Science and Music Technology | University of North Carolina Asheville
 ##### September 2017 - Present
 Focused my studies on Digital Audio Signal Processing & Recording
 ### Classes
-#### Audio Engineering Technology I-IV
-#### Recording Practicum I-IV
-#### Statistical Programming
-#### Object Oriented Programming
-#### Electronics
-#### Data Structures
-#### Physics of Sound
-### MOOKs
-#### Digital Signal Processing - Universitat Pompeu Fabra of Barcelona and Stanford University
-#### Machine Learning - Stanford University
+- Audio Engineering Technology I-IV
+- Recording Practicum I-IV
+- Statistical Programming
+- Object Oriented Programming
+- Electronics
+- Data Structures
+- Physics of Sound
+### MOOCs
+- Audio Signal Processing for Music Applications
+ .* This course was developed by Xavier Serra of Universitat Pompeu Fabra of Barcelona and Julius O. Smith III of Stanford University. This course details a method of modeling and synthesizing audio developed by by Serra and Smith known as Spectral Modeling Synthesis (SMS). This involves extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum. This Stochastic and Sinusoidal representation of the sound provides very useful information for combining and transforming the timbre of dynamic sounds.
+- Machine Learning 
+.* This course is taught by the revolutionary AI researcher and co-founder of google brain, Andrew Ng. This course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition. This course not only details the theory of machine learning but actual case studies of it's applications in computer vision, medical informatics, audio and much more.
 
 ## Projects
 ### Research Leader | UNC Asheville
 ##### June 2019 - Present
-Quantizing Dynamics of Acoustic Timbre using Spectral Modeling Synthesis
-Won UNCA Undergraduate Research Grant
+Harmonic Modulator Envelope filters: Expanding Acoustic Timbre Through Digital Synthesis
+Won UNCA 2020 Summer Undergraduate Research Grant
 ### Sound Source Separation Implementation of SuDo Rm-RF
 ### Implementation of Magenta GAN Synth
 ### Midi Arduino Controller
+## Familiar Tools / Languages 
+- Jupyter Notebook
+- Git
+- Slack
+- Trello
+- Eclisple
+- Java
+- Python
+- R
