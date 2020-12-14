@@ -18,10 +18,10 @@ Focused my studies on Digital Audio Signal Processing & Recording
 - Data Structures
 - Physics of Sound
 ### MOOCs
-- Audio Signal Processing for Music Applications
- .* This course was developed by Xavier Serra of Universitat Pompeu Fabra of Barcelona and Julius O. Smith III of Stanford University. This course details a method of modeling and synthesizing audio developed by by Serra and Smith known as Spectral Modeling Synthesis (SMS). This involves extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum. This Stochastic and Sinusoidal representation of the sound provides very useful information for combining and transforming the timbre of dynamic sounds.
-- Machine Learning 
-.* This course is taught by the revolutionary AI researcher and co-founder of google brain, Andrew Ng. This course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition. This course not only details the theory of machine learning but actual case studies of it's applications in computer vision, medical informatics, audio and much more.
+#### Audio Signal Processing for Music Applications
+ .* This course was developed by Xavier Serra of Universitat Pompeu Fabra of Barcelona and Julius O. Smith III of Stanford University. This course details a method of modeling and synthesizing audio known as Spectral Modeling Synthesis (SMS) involving extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum.
+#### Machine Learning 
+.* This course is taught by the revolutionary AI researcher and co-founder of google brain, Andrew Ng. This course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition.
 
 ## Projects
 ### Research Leader | UNC Asheville
@@ -31,12 +31,14 @@ Won UNCA 2020 Summer Undergraduate Research Grant
 ### Sound Source Separation Implementation of SuDo Rm-RF
 ### Implementation of Magenta GAN Synth
 ### Midi Arduino Controller
-## Familiar Tools / Languages 
-- Jupyter Notebook
-- Git
-- Slack
-- Trello
-- Eclisple
-- Java
-- Python
-- R
+## Familiar Tools
+
+**Programming Languages:** Java, Python, R, J
+
+**Data Tools:** Numpy, Pandas, Excel, J, Matplotlib
+
+**IDE:** Jupyter Notebook, IPython, Eclipse, Rstudio 
+
+**Project Management Tools:** Trello, Slack
+
+**Soft Skills:** morning sunrise
