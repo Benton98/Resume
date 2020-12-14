@@ -25,4 +25,3 @@ Funded by UNCA 2020 Summer Research Grant
 **Data Tools:** Numpy, Pandas, Excel, J, Matplotlib  
 **IDE:** Jupyter Notebook, IPython, Eclipse, Rstudio  
 **Project Management Tools:** Trello, Slack  
-**Soft Skills:** morning sunrise
