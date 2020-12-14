@@ -9,17 +9,13 @@ My passion for the liberal arts and research habits have endowed me with a uniqu
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)
 
 # Resume
-### Education
-**B.S. Computer Science and B.S. Music Technology:** University of North Carolina Asheville (September 2017 - Present)
-Focused my studies on Digital Audio Signal Processing & Recording
-
-**Classes:** Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound
+### B.S. Computer Science and B.S. Music Technology
+**University of North Carolina Asheville** (September 2017 - Present)
+Focused my studies on Digital Audio Signal Processing & Recording **Relavent Coursework:** Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound.
 #### MOOCs
+**Audio Signal Processing for Music Applications:** Xavier Serra's course detailing a method of modeling and synthesizing audio known as Spectral Modeling Synthesis (SMS) involving extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum.
 
-**Audio Signal Processing for Music Applications:** This course was developed by Xavier Serra of Universitat Pompeu Fabra of Barcelona and Julius O. Smith III of Stanford University. This course details a method of modeling and synthesizing audio known as Spectral Modeling Synthesis (SMS) involving extracting sinusoidal model from a STFT of a sound and creating a stochastic model of the residual noise of the spectrum.
-
-**Mathematics of Machine Learning:** This course is taught by the revolutionary AI researcher and co-founder of google brain, Andrew Ng. This course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition.
-
+**Mathematics of Machine Learning:**  Andrew Ng's famous course this course details the tools, concepts and methodology surrounding machine learning, datamining and statistical pattern recognition.
 ### Papers
 #### UNC Asheville 
 Harmonic Modulator Envelope filters: Expanding Acoustic Timbre Through Digital Synthesis
