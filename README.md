@@ -9,12 +9,10 @@ Focused my studies on Digital Audio Signal Processing & Recording
 **Harmonic Modulator Envelope filters, _2020_,** _UNC Asheville_  
 Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant 
 ### Projects
-**Sound Source Separation Implementation of SuDo Rm-RF, _2019_,** _Personal Project_  
-Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant  
-**Implementation of Magenta GAN Synth, _2020_,** _Personal Project_    
-Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant  
-**Midi Arduino Controller, _2020_,** _UNC Asheville_  
-Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant  
+**Harmonic Modulator Envelope Filter Implementation, _2020_,** _Personal Project_  
+Utilized spectral modeling synthesis to combine acoustic and synthesized timbres.
+**Midi Arduino Controller, _2017_,** _UNC Asheville_  
+Interfaced an arduino with peizo sensors to create a six input percussion midi controller  
 ### Skills & Tools
 **Programming Languages:** Java, Python, R, J  
 **Data Tools:** Numpy, Pandas, J, Matplotlib  
