@@ -1,6 +1,7 @@
  # Cover Letter
 ## Thomas Benton Goodall
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)  
+
 My passion for the liberal arts and research habits have endowed me with a unique skill set and perspective. Being a consumer and scholar of music as well as having an understanding of music production, signal processing, sound physics and programming has enabled me to understand the needs of the consumers in the music technology industry 
 and how we can meet them. This enables me to transform the innovations occurring in the field of signal processing into useful products for established music and media consumers.
 
