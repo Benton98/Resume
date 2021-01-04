@@ -1,11 +1,10 @@
 # Cover Letter
 ## Thomas Benton Goodall
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)  
-My passion for the liberal arts and research habits have endowed me with a unique skill set and perspective. Being a consumer and scholar of music as well as a signal processing engineer, I have obtained an understanding of both the state of the art of signal processing as well as an insight into the needs of the consumers in the music technology industry. This enables me to take transform the innovations ocurring in the field of signal processing into useful products for established music and media consumers.  
-I'd love to expand my knoweldge of machine learning particularly in convolutional neural networks to sound source separation. I'm curious how CNN source separation could be used to reduce spectral distorition and improve sound localization in soundscapes.  
-_**nd ambisonics 2**_
- I'm currently involved in research that explores the utility of interfacing acoustic sources of sound with virtual instruments using spectral modeling sythesis (SMS). I used these SMS techniques to model and combine natural, timbral dynamics of an electric guitar with a synthesizer. This has the effect of making the synthezier sound more like an acoustic instrument.
-# Resume
+My passion for the liberal arts and research habits have endowed me with a unique skill set and perspective. Being a consumer and scholar of music as well as having a understanding of music production, signal processing, sound physics and programming has enabled me to understand the needs of the consumers in the music technology industry and how we can meet them. This enables me to take transform the innovations ocurring in the field of signal processing into useful products for established music and media consumers.
+I'm currently involved in research that explores the utility of interfacing acoustic sources of sound with virtual instruments using spectral modeling sythesis (SMS). I used these SMS techniques to model and combine natural, timbral dynamics of an electric guitar with a synthesizer. This has the effect of making the synthezier sound more like an acoustic instrument.
+I'm currently interested in expanding my knoweldge of machine learning particularly in the application of convolutional neural networks to sound source separation. Mixing and recording ambisonics has also made me very curious about the technology behind rendering and compressing ambisonic soundscapes. Particularly, I'd love to learn how CNN source separation could be used to reduce spectral distorition and improve sound localization in soundscapes.
+ # Resume
 ## Thomas Benton Goodall
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)  
 ### B.S. Computer Science and B.S. Music Technology
