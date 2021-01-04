@@ -10,7 +10,7 @@ Focused my studies on Digital Audio Signal Processing & Recording
 Expanded Acoustic Timbre Through Digital Synthesis and funded by UNCA 2020 Summer Research Grant 
 ### Projects
 **Harmonic Modulator Envelope Filter Implementation, _2020_,** _Personal Project_  
-Utilized spectral modeling synthesis to combine acoustic and synthesized timbres.
+Utilized spectral modeling synthesis to combine acoustic and synthesized timbres
 **Midi Arduino Controller, _2017_,** _UNC Asheville_  
 Interfaced an arduino with peizo sensors to create a six input percussion midi controller  
 ### Skills & Tools
