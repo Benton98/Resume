@@ -2,6 +2,7 @@
 ## Thomas Benton Goodall
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)  
 
+My passion for the liberal arts and research habits have endowed me with a unique skill set and perspective. Being a consumer and scholar of music as well as having an understanding of music production, signal processing, sound physics and programming has enabled me to understand the needs of the consumers in the music technology industry
 My passion for the liberal arts and research habits have endowed me with a unique skill set and perspective. Being a consumer and scholar of music as well as having an understanding of music production, signal processing, sound physics and programming has enabled me to understand the needs of the consumers in the music technology industry 
 
  # Resume
@@ -21,6 +22,6 @@ Utilized spectral modeling synthesis to combine acoustic and synthesized timbres
 **Midi Arduino Controller, _2017_,** _UNC Asheville_  
 Interfaced an arduino with peizo sensors to create a percussion midi controller  
 ### Skills & Tools
-**Programming Languages:** Java, Python, R, J  
+**Programming Languages:** Java, Python, R, Pure Data, J  
 **Data Tools:** Numpy, Pandas, J, Matplotlib  
 **IDE:** Jupyter Notebook, IPython, Eclipse, Rstudio
