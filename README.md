@@ -1,7 +1,7 @@
  # Resume
 ## Thomas Benton Goodall
 tbgoodall@gmail.com | 919-537-1504  | [LinkedIn](https://www.linkedin.com/in/thomas-goodall-a382bb127/)  
-### B.S. Computer Science and B.S. Music Technology
+### B.S. Music Technology and Minor in Computer Science
 **University of North Carolina Asheville** (September 2017 - Present)
 Focused my studies on Digital Audio Signal Processing & Recording  
 **Relevant Coursework:** Andrew Ng's Machine Learning Course, Audio Signal Processing for Music Applications, Audio Engineering Technology I-IV, Recording Practicum I-IV, Statistical Programming, Object Oriented Programming, Electronics, Data Structures, Physics of Sound.
