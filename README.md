@@ -15,10 +15,10 @@ Utilized spectral modeling synthesis to combine acoustic and synthesized timbres
 **Midi Arduino Controller, _2017_,**  _Personal Project_  
 Interfaced an arduino with peizo sensors to create a percussion midi controller  
 ### Skills & Tools
-**Programming Languages:** Java, Python, R, Pure Data, J  
+**Programming Languages:** Java, Python, C++, R, Pure Data, J  
 **Data Tools:** Numpy, Pandas, J, Matplotlib  
-**IDE:** Jupyter Notebook, IPython, Eclipse, Rstudio
+**IDE:** Jupyter Notebook, IPython, Visual Studio, Eclipse, Rstudio
 
 ### Employment
-**Event Technician, _August 2018 - August 2020_,** _UNC Asheville_ 
-Was responsible for setting up operating audio and visual equipment for corporate events, TEDx, talks and Echo Fest
+**Software Engineer Intern, _May 2021 - August 2021_,** _Picardy Learning_ 
+Improved lesson rendering at the front end by updating services called to the website’s database
